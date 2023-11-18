@@ -8,11 +8,11 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #10101E
+  background: #FFFFFF;
 }
 
 .datetime{
-  color: #fff
+  color: #fff;
   background: #10101E;
   font-family: "Segoe UI", sans-serif;
   width: 340px;
